@@ -7,6 +7,8 @@ import OpenUDID
 print(DeviceOpenUDID)
 ```
 
+----
+## from ylechelle/OpenUDID
 ##IMPORTANT NOTE
 
 Please read this blog post before considering using OpenUDID:
