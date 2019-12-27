@@ -1,3 +1,6 @@
+* OpenUDID.framework: Swift Framework
+> Call: `DeviceOpenUDID`
+
 ##IMPORTANT NOTE
 
 Please read this blog post before considering using OpenUDID:
