@@ -1,5 +1,11 @@
 * OpenUDID.framework: Swift Framework
-> Call: `DeviceOpenUDID`
+
+### Usage
+``` swift
+import OpenUDID
+
+print(DeviceOpenUDID)
+```
 
 ##IMPORTANT NOTE
 
