@@ -1,3 +1,5 @@
+## OpenUDID Swift Framework
+* IOS Version: (iOS 9, *)
 * OpenUDID.framework: Swift Framework
 
 ### Usage
