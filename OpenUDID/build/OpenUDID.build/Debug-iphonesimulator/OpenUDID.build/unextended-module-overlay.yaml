@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/judy/Library/Developer/Xcode/DerivedData/OpenUDID-elsnhbhmsohwztfyohtupwyapptq/Build/Products/Debug-iphonesimulator/OpenUDID.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/judy/小貓的檔案/IOS/Framwork/OpenUDID/build/OpenUDID.build/Debug-iphonesimulator/OpenUDID.build/unextended-module.modulemap",
+    }]
+  }]
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "ec4ad0db980ce422c6562332f6836cd0"
+build_time: [1589873059, 962091000]
+inputs:
+  "/Users/judy/\u5C0F\u8C93\u7684\u6A94\u6848/IOS/Framwork/OpenUDID/OpenUDID/OpenUDID.swift": [1577376294, 0]

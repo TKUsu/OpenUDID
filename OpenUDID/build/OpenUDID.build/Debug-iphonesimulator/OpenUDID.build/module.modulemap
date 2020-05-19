@@ -1,0 +1,11 @@
+framework module OpenUDID {
+  umbrella header "OpenUDID.h"
+
+  export *
+  module * { export * }
+}
+
+module OpenUDID.Swift {
+    header "OpenUDID-Swift.h"
+    requires objc
+}

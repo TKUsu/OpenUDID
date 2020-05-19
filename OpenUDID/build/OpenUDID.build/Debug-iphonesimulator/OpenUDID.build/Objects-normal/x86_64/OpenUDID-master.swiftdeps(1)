@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "4ac25335115371456f04f5bdef01c6de"
+build_time: [1588661367, 698005000]
+inputs:
+  "/Users/justin/delevelop/IOS/Framwork/OpenUDID/OpenUDID/OpenUDID.swift": [1577433895, 0]

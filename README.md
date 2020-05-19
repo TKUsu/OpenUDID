@@ -6,7 +6,7 @@
 ``` swift
 import OpenUDID
 
-print(DeviceOpenUDID)
+OpenUDID.value()
 ```
 
 ----

@@ -1,0 +1,41 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DeviceOpenUDID"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "DeviceOpenUDID"
+- !private "OpenUDID"
+- "String"
+depends-member:
+- !private ["s7CVarArgP", "value"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["SQ", "value"]
+- !private ["SH", "value"]
+- !private ["So8NSObjectC", "value"]
+- !private ["So8NSObjectP", "value"]
+- !private ["So8OpenUDIDC", "value"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+depends-nominal:
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "SQ"
+- !private "SH"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So8OpenUDIDC"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/judy/\u5C0F\u8C93\u7684\u6A94\u6848/IOS/Framwork/OpenUDID/OpenUDID/OpenUDID.h"
+- "/Users/judy/\u5C0F\u8C93\u7684\u6A94\u6848/IOS/Framwork/OpenUDID/build/OpenUDID.build/Debug-iphonesimulator/OpenUDID.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ae6d58325f673fbe539a60e143aa38a3"

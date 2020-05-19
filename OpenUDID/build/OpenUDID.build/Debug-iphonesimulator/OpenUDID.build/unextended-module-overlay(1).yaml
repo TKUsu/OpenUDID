@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/justin/Library/Developer/Xcode/DerivedData/OpenUDID-gsrsymdrfflljpgzgkkdxlsaqyeq/Build/Products/Debug-iphonesimulator/OpenUDID.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/justin/delevelop/IOS/Framwork/OpenUDID/build/OpenUDID.build/Debug-iphonesimulator/OpenUDID.build/unextended-module.modulemap",
+    }]
+  }]
+}

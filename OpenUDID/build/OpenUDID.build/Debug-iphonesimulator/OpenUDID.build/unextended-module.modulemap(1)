@@ -1,0 +1,10 @@
+framework module OpenUDID {
+  umbrella header "OpenUDID.h"
+
+  export *
+  module * { export * }
+}
+
+module OpenUDID.__Swift {
+    exclude header "OpenUDID-Swift.h"
+}
